@@ -1,0 +1,46 @@
+.title{
+    color:#00B0FF;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.whatIs{
+    color:#00B0FF;
+    font-family: 'League Spartan', sans-serif;
+
+}
+
+.leftText{
+    background-color: #E4E9F2;
+    padding-top: 45px;
+    padding-bottom: 50px;
+    padding:30px;
+    margin-left: -25px;
+    position: absolute;
+}
+
+.leftText p{
+    font-family: 'DM Sans', sans-serif;
+}
+
+.search{
+    display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: -430px;
+      margin-left: 1px;
+      margin-top: ;
+
+    
+}
+
+.button{
+    text-decoration:none;
+    color:black;
+}
+
+.what{
+    margin-left: 250px;
+    margin-top:50px;
+}
+
